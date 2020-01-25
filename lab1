@@ -1,0 +1,22 @@
+<html>
+      <head>
+            <title>This is document title</title>
+      <head>
+      <body>
+	    <h1>This is a heading</h1>
+	    <h2><i><strike>This is a heading</strike></i></h2>
+	    <pre>
+	    <h3 title="HelloHTML"><ins>This is a heading</ins></h3>
+   	    <h4><u>This is a heading</u></h4>	
+	    <h5><tt><del>This is a heading</del></tt></h5>
+	    <h6><sup>This is a heading</sup></h6>
+	    <h7><sub>This is a heading</sub></h7>
+	    </pre>
+	    	<p><b>Document content goes here.....</b></p>
+	    	<p valign="top"><br>here is the first paragraph of text.</p>
+	    	<center>
+	    	<p valign="middle"><hr><big>here is the second paragraph of text..</big><br/></p>
+	    	<p valign="bottom"><small>here is the third paragrph of text...</small><hr/></p>
+      </center>
+      </body>
+</html>
