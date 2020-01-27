@@ -1,0 +1,25 @@
+<html>
+      <head>
+            <title>This is document title</title>
+      <head>
+      <body>
+	    <h1>This is a heading one</h1>
+	    <h2>This is a heading two</h2>
+	    <h3>This is a heading three</h3>
+   	    <h4><em>This is a heading four</em></h4>	
+	        <p><mark>Document content goes here.....</mark></p>
+	    	<p><bdo dir="rtl">here is the first paragraph of text.</bdo></p>
+	    	<p><strong>here is the second paragraph of text..</strong></p>
+	    	<p>here is the third paragrph of text...</p>
+	<UL TYPE="Fruits">
+		<LI>Apple</LI>
+		<LI>Orange</LI>
+		<LI>Mango</LI>
+	</UL>
+	<OL TYPE="Fruits">
+		<LI>Apple</LI>
+		<LI>Orange</LI>
+		<LI>Mango</LI>
+	</OL>
+      </body>
+</html>
