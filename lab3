@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>Text document</title>
+</head>
+<body>
+	<table border="3" cellpadding="5" cellspacing="8">
+	<caption align="top">Label for my table</caption>
+	<tr>
+	<th>Column 1 header</th>
+	<th>Column 2 header</th>
+	</tr>
+	<tr>
+	<td>Row1,Col1</td>
+	<td>Row1,Col2</td>
+	</tr>	
+	<tr>
+	<td>Row2,Col1</td>
+	<td>Row2,Col2</td>
+	</tr>
+	<tr>
+    <td colspan="2">Content1</td>        
+  <td rowspan="2">Content2</td>
+  </tr>
+<tr>
+    <th colspan="2">Content3</th>
+</tr>
+</table>
+</body>
+</html>
