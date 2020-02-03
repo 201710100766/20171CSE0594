@@ -1,0 +1,78 @@
+<html>
+<head>
+	<title>Text document</title>
+</head>
+<body>
+	<table bordercolor="pink" border="3" cellpadding="15" style="width:95%" style="height:80%">
+	<caption align="top">Time Table</caption>
+	<tr>
+	<th bgcolor="yellow">Days</th>
+	<th bgcolor="yellow">1</th>
+	<th bgcolor="yellow">2</th>
+	<th rowspan="7" bgcolor="yellow">T<br/>E</br>A<br/><br/>B<br/>R<br/>E<br/>A<br/>K<br/></th>   
+	<th bgcolor="yellow">3</th>
+	<th rowspan="4" bgcolor="yellow">L<br/>U</br>N<br/>C<br/>H<br/></th>      
+	<th bgcolor="yellow">5</th>
+	<th bgcolor="yellow">6</th>
+	<th bgcolor="yellow">7</th>
+	</tr>
+	<tr>
+	<td align="center" bgcolor="grey">Monday</td>
+	<td align="center">CS1</td>
+	<td align="center">CS2</td>
+	<td align="center">CS3</td>
+	<td align="center">CS5</td>
+	<td align="center">CS6</td>
+	<td align="center">CS7</td>
+	</tr>	
+	<tr>
+	<td align="center" bgcolor="grey">Tuesday</td>
+	<td align="center">CS1</td>
+	<td align="center">CS2</td>
+	<td align="center">CS3</td>
+	<td align="center">CS5</td>
+	<td align="center">CS6</td>
+	<td align="center">CS7</td>
+	</tr>	
+	<tr>
+	<td align="center" bgcolor="grey">Wednesday</td>
+	<td align="center">CS1</td>
+	<td align="center">CS2</td>
+	<td align="center">CS3</td>
+	<td align="center">CS5</td>
+	<td align="center">CS6</td>
+	<td align="center">CS7</td>
+	</tr>
+	<tr>
+	<td align="center" bgcolor="grey">Thursday</td>
+	<td align="center">CS1</td>
+	<td align="center">CS2</td>
+	<td align="center">CS3</td>
+	<td align="center">CS4</td>
+	<th rowspan="1" bgcolor="yellow">LUNCH</th>      
+	<td align="center">CS6</td>
+	<td align="center">CS7</td>
+	</tr>		
+ 	<tr>
+	<td align="center" bgcolor="grey">Friday</td>
+	<td align="center">CS1</td>
+	<td align="center">CS2</td>
+	<td align="center">CS3</td>
+	<th rowspan="1" bgcolor="yellow">LUNCH</th>  
+	<td align="center">CS5</td>
+	<td align="center">CS6</td>
+  	<td align="center">CS7</td>
+	</tr>
+	<tr>
+	<td align="center" bgcolor="grey">Saturday</td>
+	<td align="center">CS1</td>
+	<td align="center">CS2</td>
+	<td align="center">CS3</td>
+	<td align="center">CS4</td>
+	<th rowspan="1" bgcolor="yellow">LUNCH</th>  
+	<td align="center">CS6</td>
+	<td align="center">CS7</td>
+	</tr>	
+</table>
+</body>
+</html>
