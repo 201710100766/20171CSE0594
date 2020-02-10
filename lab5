@@ -1,0 +1,76 @@
+<html>
+<head>
+	<title>Text document</title>
+</head>
+<body>
+	<h1 align="center"><u><b><big>RESUME</big></b></u></h1>
+	<p align="right"><u><b>Email ID:</b></u>sadhanachandrugowda1999@gmail.com</p>
+	<p align="right"><u><b>Contact No:</b></u>9108462327</p>
+	<p><u><b>Name:</b></u>Sadhana.C</p>
+	<h2><u>Educational Qualification</u></h2>
+	<table border="3" cellpadding="5" cellspacing="1">	
+	<tr>
+	<th>Degree/Duration</th>
+	<th>Discipline/Subject</th>
+	<th>Board/University</th>
+	<th>% Of Marks</th>
+	</tr>
+	<tr>
+	<td>B-Tech(2017-2021)</td>
+	<td>Computer Science and Engineering</td>
+	<td>Presidency University</td>
+	<td>1<sup>st</sup>YEAR:7.76<br/>2<sup>nd</sup>YEAR:7.85</td>
+	</tr>	
+	<tr>
+	<td>PU2(2016-2017)</td>
+	<td>PCMB</td>
+	<td>Deeksha/Chethana PU College</td>
+	<td>85%</td>
+	</tr>	
+	<tr>
+	<td>10<sup>th</sup>(2014-2015)</td>
+	<td>Mathematics,Science<br/>Social,English<br/>Kannada,Hindi</td>
+	<td>Sri Sharada Vidyanikethana English High School</td>
+	<td>89%</td>
+	</tr>	
+	</table>
+	<h3><u>Work Experience</u></h3>
+	<p>Fresher</p>
+	<h4><u>Project Undertaken</u></h3>
+	<UL type="square"><LI>Natural Resources</LI></UL>
+		<UL type="circle">
+	 	   <LI>Advantages</LI> 
+	     	   <LI>disadvantages</LI>
+	 	   <LI>Measures to save natural resources</LI>  
+	</UL>
+	<h4><u>Achievments</u></h4>
+	<OL type="i">
+	 	   <LI>Played throw ball in state level in SVNEH School</LI> 
+	     	   <LI>Won first place for English and second place for Science in Science Exhibition named SAMHITHA 2015</LI>
+	 	   <LI>Won second place in Prathibha Karanji</LI>  
+	</OL>
+	
+	<p><u><b>Personal Profile</b></u></p>
+	<UL>
+	 	   <LI>Date Of Birth:29/08/1999</LI> 
+	     	   <LI>Gender:Female</LI>
+	 	   <LI>Father's Name:Chandru.M</LI>  
+	 	   <LI>Father's Name:Chandru.M</LI> 
+ 		   <LI>Nationality:Indian</LI>  
+		   <LI>Marital Status:Unmarried</LI>   
+		    <LI>Interest/Hobbies:Listening songs,painting,craft work</LI>  
+		 <LI>Language Known:Kannada,English,Hindi,Telugu</LI>  
+	</UL>
+	
+
+	<p><u><b>Personal Profile</b></u></p>
+	<OL>
+	 	   <LI>Good Listener</LI> 
+	     	   <LI>Positive thinking</LI>
+	 	   <LI>Good writing skills</LI>  
+	 	   <LI>Punctual</LI> 
+	</OL>
+	<p><b><u>Date:</u></b>07/02/2020</p>
+	<p><b><u>Place:</u></b>Banglore</p>
+	</body>
+</html>
