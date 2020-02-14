@@ -1,0 +1,11 @@
+<html>
+<head>
+	<title>HTML IFrames</title>
+</head>
+<body>
+	<iframe src="/home/student/Desktop/cse0594/s1.jpeg" width="300" height="200">
+	name="iframe_a">
+</iframe>
+<p><a href="https://www.google.com" target="iframe_a">Load new web page</a></p>
+</body>
+</html>
