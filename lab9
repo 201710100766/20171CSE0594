@@ -1,0 +1,15 @@
+<html>
+<body>
+<header>
+<img src="/home/cse9/Itlab_cse_0570/smiley.jpeg" alt="logo"/>
+<h1>Fundamentals of web development<h1>
+</header>
+<article>
+<header>
+<h2>HTML5 Semantic Structurwe Elements</h2>
+<p>By <em>Randy Connolly</em></p>
+<p><time>September 30, 2012</time></p>
+</header>
+</article>
+</body>
+</html>
