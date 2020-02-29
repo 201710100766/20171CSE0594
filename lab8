@@ -1,0 +1,11 @@
+<html>
+<body style="background-color:black;">
+<p style="color:green;letter-spacing:7em;">This is a Paragraph</p>
+<p style="color:blue;font-size:16pt;line-height:125%;">This is a Paragraph</p>
+<div style="color:yellow;margin-bottom:2cm;">This is a Paragraph</div>
+<p style="color:orange;word spacing:15mm;">This is a Paragraph</p>
+<p style="color:pink;font-size:2pc;">This is a Paragraph</p>
+<p style="color:red;font-size:18pt;">This is a Paragraph</p>
+<p style="color:dodgerblue;padding:25p;">This is a Paragraph</p>
+</body>
+</html>
