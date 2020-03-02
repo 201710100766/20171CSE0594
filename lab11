@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>This is a title</title>
+</head>
+<style>
+#id1{ color:blue;letter-spacing:3em;}
+.mycolour{font-size:10pt;color:maroon;}
+</style>
+<body>
+<img style="border:1px solid red;opacity:0.5;"src="s1.jpeg"/>
+<p id="id1">tour data</p>
+<h1 id="id1">your data</h1>
+<p class="mycolour">your data</p>
+</body>
+</html>
