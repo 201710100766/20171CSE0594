@@ -1,0 +1,51 @@
+<html>
+<head>
+<style>
+.div{
+width:300px;
+border:25px solid green;
+padding:25px;
+margin:25px;
+background-color:green;
+color:white;
+text-align:center;
+}
+.div:hover{
+background-color:blue;
+}
+p{
+display:none;
+background-color:yellow;
+padding:20px;
+}
+.div:hover p{
+display:block;
+}
+a:link {
+  color: red;
+  text-decoration:none;
+  background-color: yellow;
+}
+a:visited {
+  color: green;
+  text-decoration:none;
+  background-color: cyan;
+}
+a:hover {
+  color: hotpink;
+  text-decoration:underline;
+  background-color: lightgreen;
+}
+a:active {
+  color: blue;
+  text-decoration:underline;
+  background-color: hotpink;
+}
+</style>
+</head>
+<body>
+<div><p class="div">Presidency University</p>
+<p><a href="https://www.google.com/">GOOGLE website</a></p>
+<p>CSS Links</p></div>
+</body>
+</html>
