@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+a.highlight:hover {
+  color: #ff0000;
+} 
+div {
+  background-color: green;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+div:hover {
+  background-color: blue;
+}
+</style>
+</head>
+<body>
+<p><a class="highlight" href="css_syntax.html">CSS Syntax</a></p>
+<p><a href="default.html">CSS Tutorial</a></p>
+<div>Mouse Over Me</div>
+</body>
+</html>
